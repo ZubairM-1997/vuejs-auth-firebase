@@ -13,8 +13,8 @@ within your browser go to localhost:8080/register to test the application
 
 
 ### Credits
-Firebase
-Vue.js
-
+1) Firebase
+2) Vue.js
+3) Vuex
 
 
